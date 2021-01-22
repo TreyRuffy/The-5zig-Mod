@@ -6,4 +6,4 @@
 	url = https://github.com/5zig-reborn/translations
 [submodule "version-specific"]
 	path = version-specific
-	url = https://github.com/5zig-reborn/version-support
+	url = https://github.com/TreyRuffy/version-support

@@ -33,8 +33,10 @@ rootProject.name = "the-5zig-mod"
 //include '1.8.9'
 //include '1.15.1'
 include '1.16.1'
+include '1.17.1'
 
 //project(':1.12.2').projectDir = file('version-specific/1.12.2')
 //project(':1.8.9').projectDir = file('version-specific/1.8.9')
 //project(':1.15.1').projectDir = file('version-specific/1.15.1')
 project(':1.16.1').projectDir = file('version-specific/1.16.1')
+project(':1.17.1').projectDir = file('version-specific/1.17.1')

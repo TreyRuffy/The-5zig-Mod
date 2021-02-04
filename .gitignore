@@ -19,3 +19,7 @@ out/
 **/*.iml
 run/
 /logs/
+.classpath
+.project
+.settings/
+.vscode/
